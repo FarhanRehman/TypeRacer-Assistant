@@ -1,6 +1,6 @@
 # TypeRacer-Assistant
 
-
+This is a chrome extention to "assist" you win matches.
 
 ![Typeracer-BotMode](https://user-images.githubusercontent.com/37966672/57112463-23da7580-6d0e-11e9-990b-7f7d8475fabf.gif)
 
