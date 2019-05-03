@@ -24,4 +24,4 @@ This mode is used for the challenge text which show up once you get over 100 wpm
 
 To-Do
 
-- [ ] Incorperate machine learning to elimate the need of voice to typing for the challenge text
+- [ ] Incorperate machine learning to elimate the need of voice typing for the challenge text
